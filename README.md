@@ -1,3 +1,8 @@
+git checkout bit4woo
+mvn clean package -DskipTests
+
+
+
 
 # ysoserial
 
